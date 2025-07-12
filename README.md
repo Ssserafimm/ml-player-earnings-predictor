@@ -1,8 +1,8 @@
-# 🎯 ML Valorant Player Earnings Predictor
+#  ML Valorant Player Earnings Predictor
 
 A machine learning project to predict professional Valorant player earnings based on their competitive performance.
 
-## 📊 Overview
+##  Overview
 
 This project uses historical data of Valorant esports players including:
 
@@ -12,7 +12,7 @@ This project uses historical data of Valorant esports players including:
 
 A regression model predicts player earnings and evaluates errors on a per-player basis to assess prediction fairness and model accuracy.
 
-## 🧠 Key Features
+##  Key Features
 
 - Linear regression-based earnings prediction
 - Evaluation using MAE (Mean Absolute Error)
@@ -20,7 +20,7 @@ A regression model predicts player earnings and evaluates errors on a per-player
 - Normalized error-to-earning ratio analysis
 - Visual insights via histogram
 
-## 🧪 Technologies
+##  Technologies
 
 - Python
 - pandas
@@ -28,7 +28,7 @@ A regression model predicts player earnings and evaluates errors on a per-player
 - matplotlib
 - numpy
 
-## 📈 Example Outputs
+##  Example Outputs
 
 - Predictions appended to test data
 - Histogram of prediction error ratio per player
